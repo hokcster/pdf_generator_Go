@@ -1,4 +1,4 @@
-module pdf_generator_go
+module main
 
 go 1.22.2
 
